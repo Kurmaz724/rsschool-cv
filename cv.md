@@ -1,0 +1,1 @@
+kurmaz a s rezume
