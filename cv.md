@@ -1,10 +1,9 @@
 # Kurmaz Aliaksander
 ----
 ## Junior Frontend Developer
-====
 ## Contact information:
-**Phone:** +375 447813882
-**E-mail:** 375 447813882@gmail.com
+- **Phone:** +375 447813882
+- **E-mail:** 375 447813882@gmail.com
 ## Briefly About Myself:
 I work in the civil service. I want to improve my professional skills in the field of programming for the purpose of self-development and improving my qualifications.
 ****
@@ -14,8 +13,7 @@ I work in the civil service. I want to improve my professional skills in the fie
 * customs control
 ## Code example:
 > Peak array index KATA from CODEWARS: Given an array of ints, return the index such that the sum of the elements to the right of that index equals the sum of the elements to the left of that index. If there is no such index, return -1. If there is more than one such index, return the left-most index.
-
-function peak(arr) {
+> function peak(arr) {
 
   for (let i = 1; i < arr.length - 1; i++) {
     let leftSum = arr.slice(0, i).reduce((accumulator, currentValue) => accumulator + currentValue);
@@ -26,7 +24,7 @@ function peak(arr) {
   }
   return -1;
 }
-## experience
+## Experience
 * merchandising - Bobruisk shopping center
 * customs inspector - Mogilev customs
 ## Education
